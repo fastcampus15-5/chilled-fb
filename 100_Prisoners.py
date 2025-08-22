@@ -1,5 +1,6 @@
 from Prisonerfc import play_random, play_optimal 
 
+# 메인 프로그램
 if __name__ == '__main__':
     n = 100_000
     print(" Simulation count:", n)

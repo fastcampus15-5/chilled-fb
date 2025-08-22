@@ -1,3 +1,4 @@
+# Function Program
 import random
 
 def play_random(n):
